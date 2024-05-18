@@ -151,10 +151,14 @@ const countAvailable = await this.testModel.count();
 
 ## Author
 
+👤 **Nour Karoui This**
+
+- Repository has been forked from [@nour-karoui](https://github.com/nour-karoui/mongoose-soft-delete)
+
 👤 **MahdadGhasemian**
 
 - Github: [@MahdadGhasemian](https://github.com/MahdadGhasemian)
-- LinkedIn: [@nourkaroui](https://www.linkedin.com/in/nourkaroui/)
+- LinkedIn: [@mahdad-ghasemian](https://www.linkedin.com/in/mahdad-ghasemian/)
 
 ## 🤝 Contributing
 
